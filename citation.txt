@@ -1,0 +1,13 @@
+@inproceedings{REPO255,
+    author = "Chen, Yuetao and Li, Kun and Wang, Yuhao and Bai, Donglin and Wang, Lei and Ma, Lingxiao and Yuan, Liang and Zhang, Yunquan and Cao, Ting and Yang, Mao",
+    address = "New York, NY, USA",
+    booktitle = "Proceedings of the 29th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming",
+    doi = "10.1145/3627535.3638476",
+    isbn = "9798400704352",
+    pages = "333–347",
+    publisher = "Association for Computing Machinery",
+    series = "PPoPP '24",
+    title = "{ConvStencil: Transform Stencil Computation to Matrix Multiplication on Tensor Cores}",
+    url = "https://doi.org/10.1145/3627535.3638476",
+    year = "2024"
+}
